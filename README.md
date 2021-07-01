@@ -1,0 +1,2 @@
+# S0-Bienvenida
+La Facultad de Ciencias Físico Matemáticas (FCFM), la Facultad de Ciencias de la Tierra (FCT) y la Facultad de Ciencias Biológicas (FCB) de la Universidad Autónoma de Nuevo León (UANL), a través del Cuerpo Académico de Sistemas Complejos: Teoría y Simulación, invitan a la comunidad científica a la I Escuela de Verano de Modelación y Herramientas para el Análisis de Datos (I EVMHAD). Esta edición estará enfocada a explorar diversas herramientas y sus aplicaciones en Epidemiología, Bioinformática, Biología y Ciencias de la Tierra.
