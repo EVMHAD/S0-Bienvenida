@@ -11,7 +11,12 @@ Cynthia Elizabeth Castillo Silva (FCFM-UANL)<br />
 
 ### Inscripciones:
 Romelia Garza Ramírez<br />
-Correo electrónico: rgarzar104994@uanl.edu.mx
+Correo electrónico: rgarzar104994@uanl.edu.mx<br />
+
+##### Internos UANL:
+Nombre completo, facultad, carrera, matrícula, Universidad, correo universitario.
+##### Externos UANL:
+Nombre completo, país, estado, universidad o institución, carrera, semestre, y correo institucional.
 
 ### Expositores:
 Joaquín Desiderio López de la Cruz – FCFM UANL<br />
