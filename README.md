@@ -24,6 +24,7 @@ Cynthia Elizabeth Castillo Silva – FCFM UANL<br />
 Julio César Martínez Sánchez – UANL<br />
 Erasmo Hinojosa Sáenz – FCFM UANL<br />
 Fernando Saldaña Jiménez – FCFM UANL<br />
+Carlos Andrñes Rodríguez Avendaño – UANL<br />
 María Valentina Iréndira Soto Rocha – FCFM UANL<br />
 Michael Francisco Emmanuel González Sánchez – FCT UANL<br />
 Ricardo Miguel Leal López – FCFM UANL<br />
@@ -37,6 +38,5 @@ Roberto Soto Villalobos– FCT UANL<br />
 Omar González Amezcua – FCFM UANL<br />
 Patricio Adrián Zapata Morín – FCB UANL<br />
 Eduardo A. Rebollar Tellez – FCB UANL<br />
-Carlos Rodríguez – UANL<br />
 Javier Morales – FIME UANL<br />
 Aura Cruz
