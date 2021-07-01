@@ -38,5 +38,5 @@ Omar González Amezcua – FCFM UANL<br />
 Patricio Adrián Zapata Morín – FCB UANL<br />
 Eduardo A. Rebollar Tellez – FCB UANL<br />
 Carlos Rodríguez – UANL<br />
-Javier Morales – FIME UANL
+Javier Morales – FIME UANL<br />
 Aura Cruz
