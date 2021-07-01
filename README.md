@@ -39,3 +39,4 @@ Patricio Adrián Zapata Morín – FCB UANL<br />
 Eduardo A. Rebollar Tellez – FCB UANL<br />
 Carlos Rodríguez – UANL<br />
 Javier Morales – FIME UANL
+Aura Cruz
