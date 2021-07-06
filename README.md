@@ -37,7 +37,10 @@ Michael Francisco Emmanuel González Sánchez – FCT UANL<br />
 Ricardo Miguel Leal López – FCFM UANL<br />
 Anna Aura CruzAnna Aura Cruz Luévano – Unidad Lerma UAM<br />
 Rodrigo Rodríguez Gutiérrez – FCFM UANL<br />
+Javier Morales Castillo – FIME UANL<br />
 Francisco Javier Almaguer Martínez – FCFM UANL<br />
+Satu Elisa Schaeffer – FIME UANL<br />
+José Arturo Berrones Santos – FIME UANL<br />
 Francisco Hernández Cabrera – FCFM UANL<br />
 Miguel de Jesús Román Narváez – FCFM UANL<br />
 Aldo Arvey Marín Olvera – FCFM UANL<br />
